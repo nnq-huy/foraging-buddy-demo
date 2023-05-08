@@ -1,16 +1,18 @@
-# foraging_buddy
+# Foraging Buddy Demo
 
-A new Flutter project.
+An mobile application for mushroom picking guides and identification with simple demo data, release version will have complete data.
 
-## Getting Started
+## App main features:
+- guides for mushrooms picking
+- picking spots saving and viewing
+- mushroom identification (currently by genus), later version by species
 
-This project is a starting point for a Flutter application.
+## Features descriptions:
+- app runs on Android and iOS
+- account login by google and facebook
+- all screens are responsively designed, different layout for mobile and tablet
+- mushrooms guides stored locally on SQLite database
+- picking spots and results are stored on Firebase Cloud database
 
-A few resources to get you started if this is your first Flutter project:
+## Screens:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
