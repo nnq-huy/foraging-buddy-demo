@@ -4,8 +4,8 @@ An mobile application for mushroom picking guides and identification with simple
 
 ## App main features:
 - guides for mushrooms picking
-- picking spots saving and viewing
-- mushroom identification (currently by genus), later version by species
+- picking spots saving and viewing and deleting
+- mushroom identification (currently by genus), later version by species, results saving, viewing and deleting
 
 ## Features descriptions:
 - app runs on Android and iOS
@@ -14,5 +14,17 @@ An mobile application for mushroom picking guides and identification with simple
 - mushrooms guides stored locally on SQLite database
 - picking spots and results are stored on Firebase Cloud database
 
+## Install file
+Apk file install : https://1drv.ms/u/s!AhUnCCd__w0BjstVAn24Fdd91Cu37w?e=aRXyXc
+
 ## Screens:
+
+![](./screens/login_mobile.png)
+![](./screens/guides_mobile.png)
+![](./screens/guides_tablet.png)
+![](./screens/picking_spots_list_mobile.png)
+![](./screens/picking_spots_map_mobile.png)
+![](./screens/picking_spots_tablet.png)
+![](./screens/result_tablet.png)
+
 
