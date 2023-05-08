@@ -8,9 +8,10 @@ An mobile application for mushroom picking guides and identification with simple
 - mushroom identification (currently by genus), later version by species, results saving, viewing and deleting
 
 ## Features descriptions:
+- written in Flutter with Riverpod state management
 - app runs on Android and iOS
-- account login by google and facebook
-- all screens are responsively designed, different layout for mobile and tablet
+- account login by Google and Facebook
+- all screens are responsively designed with light/dark theme and different layout for mobile and tablet
 - mushrooms guides stored locally on SQLite database
 - picking spots and results are stored on Firebase Cloud database
 - mushroom identifier used tflite, model is trained using tensorflow.js using dataset containing 6700 mushrooms images by 9 genus (Agaricus, Amanita, Boletus, Cortinarius, Entoloma, Hygrocybe, Lactarius, Russula, Suillus) 
