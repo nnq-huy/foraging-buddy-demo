@@ -14,7 +14,7 @@ An mobile application for mushroom picking guides and identification with simple
 - all screens are responsively designed with light/dark theme and different layout for mobile and tablet
 - mushrooms guides stored locally on SQLite database
 - picking spots and results are stored on Firebase Cloud database
-- mushroom identifier used tflite, model is trained using tensorflow.js using dataset containing 6700 mushrooms images by 9 genus (Agaricus, Amanita, Boletus, Cortinarius, Entoloma, Hygrocybe, Lactarius, Russula, Suillus) 
+- mushroom identifier used tflite runnning on device, model is trained using tensorflow.js using dataset containing 6700 mushrooms images by 9 genus (Agaricus, Amanita, Boletus, Cortinarius, Entoloma, Hygrocybe, Lactarius, Russula, Suillus) 
 
 ## Install file
 Apk file install : https://1drv.ms/u/s!AhUnCCd__w0BjstVAn24Fdd91Cu37w?e=aRXyXc
